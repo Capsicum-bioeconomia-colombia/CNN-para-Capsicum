@@ -1,0 +1,12 @@
+Modelo generado para la lectura de imágenes de flor y fruto. A continuación describimos algunos requisitos para su ejecución e instruimos cómo se debe usar.
+
+* Las imágenes deben estar en formato .jpg, .jpeg, .png, .PJG, .PNG, .PJGE
+* Las imágenes deben estar en la carpeta "imágenes"
+* Se debe abrir el archivo "Ejecutar_modelo.py" y se debe modificar la ruta "workdir" a la misma    ruta en donde se encuentre guardado el modelo y todos los archivos.
+* Una vez hechos estos cambios, se debe ejecutar todo el script "Ejecutar_modelo.py" y los resultados estarán en el archivo "imagenes_procesadas.txt"
+
+
+Para dudas sobre este proyecto o consultas, por favor escribir a:
+jhenao@agrosavia.co
+oloaiza@agrosavia.co
+javamo93@gmail.com
